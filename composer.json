@@ -1,0 +1,16 @@
+{
+    "name": "linyunlei/test",
+    "description": "a test composer project",
+    "type": "project",
+    "require": {
+        "houdunwang/arr": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "linyunlei123",
+            "email": "290458301@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
