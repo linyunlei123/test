@@ -1,0 +1,25 @@
+{
+  "name": "BTCvilla",
+  "logoURI": "https://img.jianbihua.com/sites/default/files/styles/photo300x200/public/images/2020-03/20200318103228_516124.jpg",
+  "keywords": [
+      "defi",
+      "BTCv",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x631c6AF3F27623778552B557E73D0D75562F3B34",
+      "name": "BTCvilla",
+      "symbol": "BTCvilla",
+      "decimals": 18,
+      "logoURI": "https://img.jianbihua.com/sites/default/files/styles/photo300x200/public/images/2020-03/20200318103228_516124.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
